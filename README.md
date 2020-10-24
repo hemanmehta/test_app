@@ -1,5 +1,5 @@
 # README
-Welcome to Ruby on Rails Developer Course.
+Welcome to Ruby on Rails Developer Course. First Commit Test.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
